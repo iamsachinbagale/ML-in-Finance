@@ -20,3 +20,9 @@
     3.Dickey-Fuller test
     
     4.PREDICTION WITH SARIMAX MODEL
+    
+    
+# GOOGLE'S STOCK INFO (FY 2022)
+    (https://github.com/iamsachinbagale/ML-in-Finance/blob/main/yfinance/google_stock_Info_FY22.csv)
+    
+    kaggle - https://www.kaggle.com/datasets/sachinbagale/google-stock-info-fy-2022
