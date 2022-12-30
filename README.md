@@ -1,6 +1,15 @@
 # ML-in-Finance
 
-# yfinance
+
+- [**yfinance**](./yfinance/)
+       
+       -[Extract Stock market Data with yfinance (FY 2022)](./yfinance/Extracting Stock Market Data with yfinance (FY 2022).ipynb/)
+       
+       -[PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA](./yfinance/Extracting Stock Market Data with yfinance (FY 2022).ipynb/)
+       
+       -[GOOGLE'S STOCK INFO (FY 2022)](./yfinance/google_stock_Info_FY22.csv/)
+       
+
 yfinance is the most popular open source library to access the financial data available on Yahoo Finance.
 
 Yahoo Finance used to have their own official API, but this was decommissioned 2017.
@@ -15,7 +24,5 @@ But if you are building a serious trading system requiring complete confidence a
 
 Like Polygon or IEX
 
-# Extract Stock market Data with yfinance (FY 2022)
-       
-# PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA
+
    
