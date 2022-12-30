@@ -15,25 +15,6 @@ But if you are building a serious trading system requiring complete confidence a
 
 Like Polygon or IEX
 
-# Extract Stock market Data with yfinance (FY 2022)
-    1.Extracted Google Stock Info. of FY 2022
-    
-    2.Fetching Data of Multiple Stocks and stored in a dataframe(APPLE, GOOGLE, UBER, WALMART)
-        2.1Calculated the Daily Returns and plotted the cumulative returns of all the list of stocks.
-        2.2Determined market volatility or the spread of asset prices from their average price(Standard Deviation)
-        2.3Constructed a Correlation Table 
-        2.4Calculated Annualized Sharpe Ratios
-        
-    3.Fetching Data for all Stock Tickers in S&P 500 Companies
-    
-    4.Get the key Financial Metrics of Multiple Tickers
-    
-
-# PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA
-    1.SARIMAX(Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors)
-    
-    2.What is a stationary Time Series
-    
-    3.Dickey-Fuller test
-    
-    4.PREDICTION WITH SARIMAX MODEL
+        # Extract Stock market Data with yfinance (FY 2022)
+        # PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA
+   
