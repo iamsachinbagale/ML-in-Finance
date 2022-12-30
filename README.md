@@ -15,6 +15,7 @@ But if you are building a serious trading system requiring complete confidence a
 
 Like Polygon or IEX
 
-        # Extract Stock market Data with yfinance (FY 2022)
-        # PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA
+# Extract Stock market Data with yfinance (FY 2022)
+       
+# PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA
    
