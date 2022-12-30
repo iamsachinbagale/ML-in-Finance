@@ -31,6 +31,9 @@ Like Polygon or IEX
 
 # PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA
     1.SARIMAX(Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors)
+    
     2.What is a stationary Time Series
+    
     3.Dickey-Fuller test
+    
     4.PREDICTION WITH SARIMAX MODEL
