@@ -5,7 +5,7 @@
        
   - [Extract Stock market Data with yfinance (FY 2022)](https://github.com/iamsachinbagale/ML-in-Finance/blob/main/yfinance/Extracting%20Stock%20Market%20Data%20with%20yfinance%20(FY%202022).ipynb)
   
-  -[stock_data_pulling_TESLA_and_price_prediction_with_Time_Series](https://github.com/iamsachinbagale/ML-in-Finance/blob/main/yfinance/Extracting%20Stock%20Market%20Data%20with%20yfinance%20(FY%202022).ipynb)
+  - [stock_data_pulling_TESLA_and_price_prediction_with_Time_Series](https://github.com/iamsachinbagale/ML-in-Finance/blob/main/yfinance/Extracting%20Stock%20Market%20Data%20with%20yfinance%20(FY%202022).ipynb)
        
   - [PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA](https://github.com/iamsachinbagale/ML-in-Finance/blob/main/yfinance/Extracting%20Stock%20Market%20Data%20with%20yfinance%20(FY%202022).ipynb)
        
