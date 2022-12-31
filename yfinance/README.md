@@ -1,4 +1,5 @@
 [**Extract Stock market Data with yfinance (FY 2022)**](https://github.com/iamsachinbagale/ML-in-Finance/blob/main/yfinance/Extracting%20Stock%20Market%20Data%20with%20yfinance%20(FY%202022).ipynb)
+
     1.Extracted Google Stock Info. of FY 2022
     
     2.Fetching Data of Multiple Stocks and stored in a dataframe(APPLE, GOOGLE, UBER, WALMART)
@@ -13,6 +14,7 @@
     
 
 [**PREDICTIVE MODEL BUIDING BASED ON THE HISTORICAL TIME-SERIES DATA OF TESLA**](https://github.com/iamsachinbagale/ML-in-Finance/blob/main/yfinance/Extracting%20Stock%20Market%20Data%20with%20yfinance%20(FY%202022).ipynb)
+
     1.SARIMAX(Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors)
     
     2.What is a stationary Time Series
